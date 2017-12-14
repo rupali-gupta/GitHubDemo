@@ -7,3 +7,5 @@ Some more comments
 stash testing
 
 Content from VS
+
+Stage
